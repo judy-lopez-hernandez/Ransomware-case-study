@@ -3,9 +3,10 @@
 ## Examinar si se trata de un caso de ransomware mediante la observación de su comportamiento
 
 ## Herramientas
-
-VirusTotal
-
+<ul>
+ <li>VirusTotal</li>
+ </ul> 
+ 
 ## Hallazgos y análisis
 
 <ul>
